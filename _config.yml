@@ -1,0 +1,15 @@
+# Site settings
+title: SELECT *
+author: Styliani Pantela
+email: stylianipantela@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  I maintain this blog for fun and to keep track of my thoughts.
+  Visit stylianipantela.github.io for more info.
+
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+url: "http://stylianipantela.github.io" # the base hostname & protocol for your site
+twitter_username: stylianipantela
+github_username:  stylianipantela
+
+# Build settings
+markdown: kramdown
