@@ -14,7 +14,7 @@ I did some calculations last year that made me conclude I am not reading as many
 Now is time for a quick throwback. I used to be a decent reader growing up. In Greece, childrens' and young adults' literature is extremely rich and I was very fortunate to have been introduced to it by my mother at an early age. I would average more than 20 books per year and would spend hours reading every single page in addition to the books assigned for school work. Upon entering high school and having switched to more "grown-up" authors like Dostoyevsky and Camus which I absolutely enjoyed I managed to keep up a decent pace of about 6-8 books per year.
 
 <!-- Future.  -->
-Coming to college though I left behind my thirst for literature and I regret it because I love reading, I enjoy the activity for its own shake. It allows me to unplug from technology, focus, and learn while partaking in one of the most amazing shared experiences of our society. For that I have taken up the 12 book per year reading challenge on Goodreads. I am so far averaging one book per month. Here is my reading list for 2015 that I will keep updating
+Coming to college though I left behind my thirst for literature and I regret it because I love reading, I enjoy the activity for its own shake. It allows me to unplug from technology, focus, and learn while partaking in one of the most amazing shared experiences of our society. For that I have taken up the 12 book per year reading challenge on Goodreads. I am so far averaging one book per month. Here is my reading list for 2015 that I will keep updating:
 
 <ul>
   <li>The Master and Margarita, Mikhail Bulgakov</li>
