@@ -1,1 +1,1 @@
-This is my blog!
+This is my blog and it is built with jekyll, a simple, blog-aware, static site generator. The engine behind GitHub Pages, which means you can use Jekyll to host your project's page, blog, or website.
