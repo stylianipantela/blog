@@ -13,3 +13,7 @@ github_username:  stylianipantela
 
 # Build settings
 markdown: kramdown
+
+# Discuss comments
+layout: default
+comments: true
