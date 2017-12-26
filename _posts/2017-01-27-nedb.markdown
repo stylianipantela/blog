@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "NEDB 2017"
+date:   2017-01-27 23:13:39
+categories: database nedb
+summary: New England Database Day 2017
+---
+
+Over the past year or so I have been working on a fun and exciting project for Vertica called Directed Queries. Recently my coworker Thao Pham and I a published a poster at the 2017 New England Database Day. Click [here] for more details about the conference.
+
+Here is a quick summary:
+
+A query optimizer aims at choosing the best execution plan for a query. In certain cases, even the best optimizer would come up with a suboptimal plan. At the same time, an internal change in strategy which produces better plans for 95% of queries may result in worse plans for the remaining 5%. Vertica's Directed Queries provide a solution for such cases when users know the optimizer is selecting a suboptimal plan. A directed query in Vertica is a map from a query to a specific execution plan of the query. When the directed query is activated, the query will be run using the associated execution plan. VerticaÕs Directed Queries are unique in the way they save the execution plan. The saved plan is not a serialization of an internal structure, but instead an annotated query: a SQL query augmented with a set of Vertica-specific hints. This gives great flexibility to both Vertica users and developers. Users can easily retrieve the optimizer's plan for a query, even after an upgrade, in the form of an annotated SQL query. If the performance of a query degrades, the users can always use the saved annotated SQL to restore the original way of execution. They can also modify one or more of the hints in the annotated SQL to try a different plan for user-guided changes. At the same time, Vertica developers can arbitrarily improve the internal data structures related to a query plan without worrying about incompatibility with any directed queries that have been saved from previous versions. Directed Queries bring the Vertica Optimizer a step closer to complete robustness.
+
+[get the PDF]({{ site.baseurl }}{{ "/assets/NEDB2017_final.pdf"}}) directly.
+
+
+
+
+[here]: http://mitdbg.github.io/nedbday/2017/#posters
