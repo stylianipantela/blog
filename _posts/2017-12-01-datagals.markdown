@@ -18,20 +18,17 @@ informal environment where women can get together, find a source of great mentor
 strong role models, and camaraderie.
 
 Over the past four years the group has grown a lot and also has received a lot of support from
-the three ccompanies we have transitioned through, which are HP and HPE.
+the three companies we have transitioned through, which are HP and HPE.
 
-HPE is committed to women in tech in general. In fact, in 2015, it was name one
+HPE is committed to women in tech in general. In fact, in 2015, it was named one
 of the top 100 best Working Mother's Companies (25th year on this list). Among
-the organizations HPE works with is the Anita Bort Institute that champions
+the organizations HPE works with is the Anita Borg Institute that champions
 women technologists and the key roles they play in technical innovation.
 The Anita Borg institute organizes Grace Hopper one of the biggest conference
 for women in computer science. HPE also sponsors the Simmons Leadership Conference.
-Vertica, which is part of the Big Data Platform group of HPE organizes its own
-Big Data Conference as well. It happens every year and attracts our biggest customers.
-Engineers share the latest features they have built in the big data platform and we also host a
-Women in Technology breakfast.
+Vertica organizes its own Big Data Conference as well. It happens every year and attracts our biggest customers. Engineers share the latest features they have built in the big data platform and we also host a Women in Technology breakfast that has been extremely sucessful.
 
-You can read more about what we do and our [Year in Review].
+You can read more about what we do in our 2017 [Year in Review].
 
 [here]: https://www.microfocus.com/about/press-room/article/2017/micro-focus-completes-merger-with-hpe-software/
 [Year in Review]: https://my.vertica.com/blog/datagals-year-review/
