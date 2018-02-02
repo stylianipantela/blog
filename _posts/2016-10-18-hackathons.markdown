@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Vertica Hackathons as a professional"
-date:   2016-10-18 12:13:00
+title:  "Vertica Participation in the Wellesley Hackathon"
+date:   2016-10-14 12:13:00
 categories: hackathon vertica hpe
 summary: Hackathons
 ---
