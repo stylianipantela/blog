@@ -1,15 +1,17 @@
 ---
 layout: post
-title:  "On reading books"
+title:  "How to read 24+ books in one year"
 date:   2015-08-12 12:13:39
 categories: reading goodreads
 summary: How to start reading more and become a faster reader.
 ---
 
 
-I did some calculations last year. I assumed that I read about 10 books a year. That means in 10 years I will have averaged around 100 books. 100 is a tiny number considering how many incredible books are out there. Imagine now that I am not even reading 10 books a year. The number drops dramatically. Thanks to [Goodreads], a book tracking and rating website I realized that I barely read five non-college related books in 2014. Being surrounded by huge libraries and people carrying loads of books around all the time it becomes easy to "forget" to pick up one and read it for pleasure. Everytime I would pick up a literature book I would think to myself I better be reading school related material to optimize for learning.
+I did some calculations last year to figure out how many books I will be reading in the next decade. Assuming a rate of 10 books a year, in 10 years I will have averaged around 100 books. 100 is a tiny number considering how many incredible books are out there. Imagine now that I am not even reading 10 books a year. The number drops dramatically. Thanks to [Goodreads], a book tracking and rating website I realized that I barely read five non-college related books in 2014. Harvard, my alma matter has one of the largest libraries in the world and trhoughout my undergraduate career I was surrounded by people carrying loads of books around all the time. However, being so busy with extra curriculars and school work it became very easy to "forget" to pick up a book and read it for pleasure. Everytime I would pick up a literature book I would think to myself I better be reading school related material to optimize for learning things related to my major.
 
-I used to be a decent reader growing up. In Greece, childrens' and young adults' literature is extremely rich and I was very fortunate to have been introduced to it by my mother at an early age. I would average more than 20 books per year and would spend hours reading every single page in addition to the books assigned for school work. Upon entering high school and having switched to more "grown-up" authors like Dostoyevsky and Camus which I absolutely enjoyed I managed to keep up a decent pace of about 8 books per year. Coming to college though I left behind my thirst for literature and I regret it because I love reading, I enjoy the activity for its own shake. It allows me to unplug from technology, focus, and learn while partaking in one of the most amazing shared experiences of our society. For that I have taken up the 12 book per year reading challenge on Goodreads. I am so far averaging one book per month. Here is my [reading list] for 2015.
+I used to be a decent reader growing up. In Greece, childrens' and young adults' literature is extremely rich and I was very fortunate to have been introduced to it by my mother at an early age. I would average more than 20 books per year and would spend hours reading every single page in addition to the books assigned for school work. Upon entering high school and having switched to more "grown-up" authors like Dostoyevsky and Camus which I absolutely enjoyed I managed to keep up a decent pace of about 8 books per year. Coming to college though I left behind my thirst for literature and I regret it because I love reading, I enjoy the activity for its own shake. It allows me to unplug from technology, focus, and learn while partaking in one of the most amazing shared experiences of our society. 
+
+I have taken up the 12 book per year reading challenge on Goodreads. I am so far averaging one book per month. Here is my [reading list] for 2015.
 
 Challenges are great but they also are good in distracting from the purpose. The purpose is not to read a lot of books alone but to enjoy the process and adding numbers could destroy that. That is why my one rule is that I will not rule a book out because of its size alone.
 
