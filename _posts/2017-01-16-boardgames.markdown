@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Boardgames 2016"
+title:  "Which were the best 2016 board games?"
 date:   2017-01-16 12:13:39
 categories: board games
 summary: 2016 Board Games played
@@ -9,7 +9,7 @@ summary: 2016 Board Games played
 Board Games list of 2016
 
 <ul>
-  <li>Codenames (base*, with pictures, adult version)</li>
+  <li>Codenames (base*, with pictures)</li>
   <li>Pandemic (base*, legacy*)</li>
   <li>Dominion (all expansions)</li>
   <li>Innovation (base, echoes of the past)</li>
