@@ -6,7 +6,7 @@ categories: blog goals
 summary: Motivation for creating this blog
 ---
 
-I setup this blog in 2015. So far I have spent most of my blog time doing the setup, which was fun. The blog is built with jekyll, github pages and disqus for commenting. I am not sure about whether I will keep discuss but I enabled it for now. However, when I started the blog I did not want to simply learn how to setup a blog, but instead to have a space to do the following things:
+I set up this blog in 2015. So far I have spent most of my blog time doing the setup, which was fun. The blog is built with jekyll, github pages and disqus for commenting. I am not sure about whether I will keep discuss but I enabled it for now. However, when I started the blog I did not want to simply learn how to setup a blog, but instead to have a space to do the following things:
 
 1. Clarify and organize my thoughts. I think about lots of things. Sometimes I manage to organize my thoughts in my head, other times I use google drive. Having a blog has the added benefit that I have to do that well enough for another person to read and understand.
 
