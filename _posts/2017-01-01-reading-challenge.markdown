@@ -39,7 +39,7 @@ Here is the list. I have starred the books I would recommend to a friend enthusi
 
 The themes included biography, sci-fi, feminist literature, ethics and most recently the field of psychology. Here is a map that organizes the books by genre.
 
-<img src="/blog/assets/books2016.png">
+![Books]({{ site.baseurl }}/assets/books2016.png)
 
 In 2017, I am planning to read 24 books again. If you have in mind any books related to existentialism,  existential psychotherapy, computer science history and practice (not purely technical please), feminism, fiction or just in general wonderful book recommendations send them my way.
 

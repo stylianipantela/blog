@@ -39,12 +39,5 @@ I have been doing a reading challenge for the past three years, you can read mor
   <li>The Woman Destroyed, Simone de Beauvoir</li>
 </ul>
 
-
-The themes included biography, sci-fi, feminist literature, ethics and most recently the field of psychology. Here is a map that organizes the books by genre.
-
-<img src="/blog/assets/books2017.png">
-
-In 2017, I am planning to read 24 books again. If you have in mind any books related to existentialism,  existential psychotherapy, computer science history and practice (not purely technical please), feminism, fiction or just in general wonderful book recommendations send them my way.
-
 [Goodreads]:  http://goodreads.com
 [blog]: /blog/reading/goodreads/2015/08/12/reading-list.html
